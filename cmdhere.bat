@@ -1,0 +1,1 @@
+cmd.exe -e cd %~f0
