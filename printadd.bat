@@ -41,7 +41,7 @@ echo.
 echo.
 echo Usage:
 echo Copy the printadd.cmd to the root of your hard drive.
-echo From a command line, type the following:   printadd isc365 isc210\isp110
+echo From a command line, type the following:   printadd Computer Server\Printer
 echo If you get an error about SC not recognized, the printer will not be added until next logoff/login or the spooler is stopped and started.
 goto end
 
